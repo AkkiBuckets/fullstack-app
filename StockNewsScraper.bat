@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\aruna\Desktop\AKSHAY\fullstack-app\StockNewsScraper.py
+python StockNewsScraper.py
 pause
