@@ -14,7 +14,7 @@ import ta
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # OpenAI API key
-openai.api_key = 'sk-proj-18nozHrAveRdu6zDQarpT3BlbkFJ84CfWjoNNAVcpWlUt3nm'
+openai.api_key = 'INSERT OPENAI API KEY HERE'
 
 # Fetch historical data using yfinance
 def get_historical_data(symbol, period='5d', timeframe='1h'):
